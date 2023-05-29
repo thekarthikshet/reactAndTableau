@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
+//new comment 2
 import com.bezkoder.spring.jpa.h2.dto.ProductQuantityDto;
 import com.bezkoder.spring.jpa.h2.dto.TotalSalesDTO;
 import com.bezkoder.spring.jpa.h2.model.Sales;
