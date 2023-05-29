@@ -20,6 +20,7 @@ import com.bezkoder.spring.jpa.h2.dto.ProductQuantityDto;
 import com.bezkoder.spring.jpa.h2.dto.TotalSalesDTO;
 import com.bezkoder.spring.jpa.h2.model.Sales;
 import com.bezkoder.spring.jpa.h2.service.SalesService;
+///
 @CrossOrigin("http://localhost:3000")
 @RestController
 @RequestMapping("/api/sales")
